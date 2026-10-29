@@ -51,5 +51,7 @@ begin
                 writeln('status = lulus');
             end;
         end;
-    end;
+    end
+    else
+    writeln('syarat input maksimal 5 mahasiswa');
 end.
